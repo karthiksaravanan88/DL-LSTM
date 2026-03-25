@@ -4,8 +4,17 @@
 ## AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
 
-## THEORY
+### PROBLEM STATEMENT
 
+Stock prices vary over time and are influenced by past trends and patterns. Accurately predicting future stock prices is important for decision-making in finance and investment. A model is required that can learn from historical stock price data and provide reliable predictions for future values.
+
+### THEORY
+
+Recurrent Neural Networks (RNNs) are used for sequential data where past information is important. They process data step by step and remember previous inputs, making them suitable for time-series problems like stock prediction.
+
+In this model, past stock prices are used as input, and the network learns patterns such as trends and fluctuations. Based on this learned information, the model predicts future stock prices. Advanced versions like LSTM improve performance by handling long-term dependencies more effectively.
+### Dataset
+<img width="1441" height="856" alt="image" src="https://github.com/user-attachments/assets/784b9500-e350-4739-9440-ebbe88a7c078" />
 
 ## Neural Network Model
 Include the neural network model diagram.
