@@ -1,5 +1,5 @@
 # DL- Developing a Deep Learning Model for NER using LSTM
-# NAME: KARtHIK B
+# NAME: KARTHIK B
 # REGISTER NUMBER: 212224230118
 ## AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
@@ -16,8 +16,7 @@ In this model, past stock prices are used as input, and the network learns patte
 ### Dataset
 <img width="1441" height="856" alt="image" src="https://github.com/user-attachments/assets/784b9500-e350-4739-9440-ebbe88a7c078" />
 
-## Neural Network Model
-Include the neural network model diagram.
+
 
 ## DESIGN STEPS
 ### STEP 1: 
